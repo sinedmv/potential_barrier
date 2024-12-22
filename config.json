@@ -3,5 +3,5 @@
   "energy": 1.5e-19,
   "barrier_range": 1e-9,
   "analytic_potential": "5e-19 * (1 + np.sin(2 * np.pi * x / 1e-9))",
-  "x_count": 100
+  "x_count": 1000
 }
