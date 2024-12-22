@@ -1,6 +1,6 @@
 {
   "mass": 9.10938356e-31,
-  "energy": 1.5e-19,
+  "energy": 1.5e-18,
   "barrier_range": 1e-9,
   "analytic_potential": "5e-19 * (1 + np.sin(2 * np.pi * x / 1e-9))",
   "x_count": 1000
